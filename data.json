@@ -1,7 +1,7 @@
 {
   "adSettings": {
-    "enabled": false,
-    "link": ""
+    "enabled": true,
+    "link": "https://google.com"
   },
   "updateSettings": {
     "enabled": false,

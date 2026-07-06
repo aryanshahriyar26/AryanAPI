@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "matchDateTime": 1783344600000,
+    "readableDate": "2026-07-06 19:30:00",
+    "sportCategory": "Cricket",
+    "streams": [
+      {
+        "name": "gg",
+        "url": "gg"
+      }
+    ],
+    "teamAFlag": "https://flagcdn.com/w160/bd.png",
+    "teamAName": "Bangladesh",
+    "teamBFlag": "https://flagcdn.com/w160/zw.png",
+    "teamBName": "Zimbabwe"
+  }
+]

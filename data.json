@@ -4,7 +4,7 @@
     "link": "https://google.com"
   },
   "updateSettings": {
-    "enabled": true,
+    "enabled": false,
     "version": "1.0.0",
     "link": "https://google.com"
   },

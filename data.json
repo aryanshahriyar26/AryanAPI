@@ -16,9 +16,9 @@
       "sportCategory": "Cricket",
       "streams": [
         {
+          "cookie": "Edge-Cache-Cookie\u003dURLPrefix\u003daHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires\u003d1783494331:KeyName\u003dprod_linear:Signature\u003dLXc5EHQpGihL9G6JK0rkyiZopL7w9lhj8Ml8OJdCmSk3qyg5BU6tv-DkCRwY7YhbJsgcUNViCZ1OktHSQG7kCQ",
           "name": "Jamuna",
-          "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8",
-          "userAgent": "Edge-Cache-Cookie\u003dURLPrefix\u003daHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires\u003d1783494331:KeyName\u003dprod_linear:Signature\u003dLXc5EHQpGihL9G6JK0rkyiZopL7w9lhj8Ml8OJdCmSk3qyg5BU6tv-DkCRwY7YhbJsgcUNViCZ1OktHSQG7kCQ"
+          "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8"
         }
       ],
       "teamAFlag": "https://flagcdn.com/w160/bd.png",

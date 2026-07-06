@@ -1,18 +1,52 @@
-[
-  {
-    "id": 1,
-    "matchDateTime": 1783344600000,
-    "readableDate": "2026-07-06 19:30:00",
-    "sportCategory": "Cricket",
-    "streams": [
-      {
-        "name": "gg",
-        "url": "gg"
-      }
-    ],
-    "teamAFlag": "https://flagcdn.com/w160/bd.png",
-    "teamAName": "Bangladesh",
-    "teamBFlag": "https://flagcdn.com/w160/zw.png",
-    "teamBName": "Zimbabwe"
-  }
-]
+{
+  "adSettings": {
+    "enabled": false,
+    "link": ""
+  },
+  "updateSettings": {
+    "enabled": false,
+    "version": "1.0.0",
+    "link": ""
+  },
+  "matches": [
+    {
+      "id": 3,
+      "matchDateTime": 1783259220000,
+      "readableDate": "2026-07-05 19:47:00",
+      "sportCategory": "Cricket",
+      "streams": [
+        {
+          "name": "Jamuna",
+          "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8",
+          "userAgent": "Edge-Cache-Cookie\u003dURLPrefix\u003daHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires\u003d1783494331:KeyName\u003dprod_linear:Signature\u003dLXc5EHQpGihL9G6JK0rkyiZopL7w9lhj8Ml8OJdCmSk3qyg5BU6tv-DkCRwY7YhbJsgcUNViCZ1OktHSQG7kCQ"
+        }
+      ],
+      "teamAFlag": "https://flagcdn.com/w160/bd.png",
+      "teamAName": "Bangladesh",
+      "teamBFlag": "https://flagcdn.com/w160/zw.png",
+      "teamBName": "Zimbabwe"
+    },
+    {
+      "id": 2,
+      "matchDateTime": 1783435500000,
+      "readableDate": "2026-07-07 20:45:00",
+      "sportCategory": "Cricket",
+      "streams": [
+        {
+          "cookie": "Edge-Cache-Cookie\u003dURLPrefix\u003daHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires\u003d1783494316:KeyName\u003dprod_linear:Signature\u003dY0TzZApz655Gi3_P-2Nw_tejrLAAKbmI616UprphqX0S0q8soD2nw2EXpxgmJgxkRLl68z1ORgep3txCeGaJBg",
+          "name": "Sony Sports 1",
+          "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
+        },
+        {
+          "cookie": "Edge-Cache-Cookie\u003dURLPrefix\u003daHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires\u003d1783494314:KeyName\u003dprod_linear:Signature\u003dYJhEfXCd23ObBVy8qUnnlIGjCVgv4ufA6QWiABitr_AtSnhfFxGL2vKRrqQNPSZ6jLZXnJWZodxEgSCcAXmzDQ",
+          "name": "Sony 2",
+          "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8"
+        }
+      ],
+      "teamAFlag": "https://flagcdn.com/w160/in.png",
+      "teamAName": "India",
+      "teamBFlag": "https://flagcdn.com/w160/gb.png",
+      "teamBName": "England"
+    }
+  ]
+}

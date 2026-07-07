@@ -13,19 +13,20 @@
       "id": 3,
       "matchDateTime": 1783259220000,
       "readableDate": "2026-07-05 19:47:00",
-      "sportCategory": "Cricket",
+      "sportCategory": "Football",
       "streams": [
         {
           "group": "Cricket",
-          "link": "https://github.com/aryanshahriyar26/AryanAPI/raw/refs/heads/main/stream_start.mp4",
+          "link": "https://cdn7.zohanayaan.com:1686/hls/ptvpk.m3u8?md5\u003dyB2BlvXp3B6mtFO2MKopXA\u0026expires\u003d1783444946",
           "name": "Sony Sports",
-          "url": "https://github.com/aryanshahriyar26/AryanAPI/raw/refs/heads/main/stream_start.mp4"
+          "referer": "https://executeandship.com/",
+          "url": "https://cdn7.zohanayaan.com:1686/hls/ptvpk.m3u8?md5\u003dyB2BlvXp3B6mtFO2MKopXA\u0026expires\u003d1783444946"
         }
       ],
-      "teamAFlag": "https://flagcdn.com/w160/bd.png",
-      "teamAName": "Bangladesh",
-      "teamBFlag": "https://flagcdn.com/w160/zw.png",
-      "teamBName": "Zimbabwe"
+      "teamAFlag": "https://flagcdn.com/w160/ar.png",
+      "teamAName": "Argentina",
+      "teamBFlag": "https://flagcdn.com/w160/eg.png",
+      "teamBName": "Egypt"
     },
     {
       "id": 2,

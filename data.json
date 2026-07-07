@@ -16,9 +16,18 @@
       "sportCategory": "Cricket",
       "streams": [
         {
-          "cookie": "Edge-Cache-Cookie\u003dURLPrefix\u003daHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires\u003d1783494331:KeyName\u003dprod_linear:Signature\u003dLXc5EHQpGihL9G6JK0rkyiZopL7w9lhj8Ml8OJdCmSk3qyg5BU6tv-DkCRwY7YhbJsgcUNViCZ1OktHSQG7kCQ",
-          "name": "Jamuna",
-          "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8"
+          "cookie": "Edge-Cache-Cookie\u003dURLPrefix\u003daHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires\u003d1783556326:KeyName\u003dprod_linear:Signature\u003dtMyQvZqPL5wv2dQkkByAEgj57m5QtFQtaGlLs-FTU5LDhiWBCcIe-SI3SV2B0JnS2HeCEh_mTOhKDNyyV3YjDw",
+          "group": "Cricket",
+          "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8",
+          "name": "Sony yaya",
+          "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8"
+        },
+        {
+          "group": "Cricket",
+          "link": "https://cdn9.zohanayaan.com:1686/hls/star1in.m3u8?md5\u003d3_zqdBGmrKxw1LpwhRL2kA\u0026expires\u003d1783390937",
+          "name": "Star Sports",
+          "referer": "https://executeandship.com/",
+          "url": "https://cdn9.zohanayaan.com:1686/hls/star1in.m3u8?md5\u003d3_zqdBGmrKxw1LpwhRL2kA\u0026expires\u003d1783390937"
         }
       ],
       "teamAFlag": "https://flagcdn.com/w160/bd.png",

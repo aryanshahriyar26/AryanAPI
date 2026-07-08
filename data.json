@@ -17,10 +17,14 @@
       "streams": [
         {
           "group": "Cricket",
-          "link": "https://cdn7.zohanayaan.com:1686/hls/ptvpk.m3u8?md5\u003dyB2BlvXp3B6mtFO2MKopXA\u0026expires\u003d1783444946",
-          "name": "Sony Sports",
-          "referer": "https://executeandship.com/",
-          "url": "https://cdn7.zohanayaan.com:1686/hls/ptvpk.m3u8?md5\u003dyB2BlvXp3B6mtFO2MKopXA\u0026expires\u003d1783444946"
+          "link": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+          "name": "big byck",
+          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+        },
+        {
+          "link": "https://cdn.fluidplayer.com/videos/valerian-480p.mkv",
+          "name": "valerian",
+          "url": "https://cdn.fluidplayer.com/videos/valerian-480p.mkv"
         }
       ],
       "teamAFlag": "https://flagcdn.com/w160/ar.png",

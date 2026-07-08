@@ -1,6 +1,6 @@
 {
   "adSettings": {
-    "enabled": false,
+    "enabled": true,
     "link": "https://google.com"
   },
   "updateSettings": {
@@ -27,28 +27,6 @@
       "teamAName": "Argentina",
       "teamBFlag": "https://flagcdn.com/w160/eg.png",
       "teamBName": "Egypt"
-    },
-    {
-      "id": 2,
-      "matchDateTime": 1783389120000,
-      "readableDate": "2026-07-07 07:52:00",
-      "sportCategory": "Cricket",
-      "streams": [
-        {
-          "cookie": "Edge-Cache-Cookie\u003dURLPrefix\u003daHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires\u003d1783494316:KeyName\u003dprod_linear:Signature\u003dY0TzZApz655Gi3_P-2Nw_tejrLAAKbmI616UprphqX0S0q8soD2nw2EXpxgmJgxkRLl68z1ORgep3txCeGaJBg",
-          "name": "Sony Sports 1",
-          "url": "https://bldcmtprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8"
-        },
-        {
-          "cookie": "Edge-Cache-Cookie\u003dURLPrefix\u003daHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires\u003d1783494314:KeyName\u003dprod_linear:Signature\u003dYJhEfXCd23ObBVy8qUnnlIGjCVgv4ufA6QWiABitr_AtSnhfFxGL2vKRrqQNPSZ6jLZXnJWZodxEgSCcAXmzDQ",
-          "name": "Sony 2",
-          "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8"
-        }
-      ],
-      "teamAFlag": "https://flagcdn.com/w160/in.png",
-      "teamAName": "India",
-      "teamBFlag": "https://flagcdn.com/w160/gb.png",
-      "teamBName": "England"
     }
   ]
 }
